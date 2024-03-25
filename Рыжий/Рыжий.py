@@ -245,4 +245,4 @@ async def играй(ctx, *, url: str):
             i = i + 1
         await ctx.send(f'В список добавлена: {name}')
 
-bot.run('MTAwMDYzNTcxODA2MzkwMjc0MQ.GCGBOB.qGdwAtkdH7ODOEQDAVmNihrDTW0sa5zWOevIdg')
+bot.run('token')
